@@ -4,21 +4,15 @@
 The Magic 8-Ball is a plastic sphere, made to look like an eight-ball, that is used for fortune-telling or seeking advice. It was invented in 1950 by Albert C. Carter and Abe Bookman and is currently manufactured by Mattel. The user asks a yes–no question to the ball and then turns it over to reveal an answer in a window on the ball.
 
 ## GitLab Pages URL
-https://josephdubon.gitlab.io/PROJECT-NAME-HERE
+https://josephdubon.gitlab.io/magic-eight-ball
 
 ### Assessment Development Plan
     1. Initiate eight ball by clicking button
-        a. 
-        b.
-        c.
+
     2. Iterate from random from 20 possible answers
-        a.
-        b.
-        c.
+
     3. Show anwser
-        a.
-        b.
-        c.
+
 
 #### How to Break Down a Project
 
