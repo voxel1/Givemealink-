@@ -1,0 +1,82 @@
+/* Joseph Dubon CSS Reset/Starter File
+   v1.0 | 20200615
+   License: MIT
+*/
+
+/* Reset Box-Sizing */
+:root {
+    box-sizing: border-box;
+}
+
+body {
+    line-height: 1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 15px;
+    padding: 15px;
+}
+
+header h1 {
+    display: none;
+}
+
+#game {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #EB8FB3;
+    width: 350px;
+    height: 150px;
+    box-shadow: 6px 6px rgba(26, 26, 26, 0.753);
+}
+
+#window {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffffec;
+    width: 200px;
+    height: 125px;
+    box-shadow: 2px 2px rgba(26, 26, 26, 0.753);
+}
+
+#window p {
+    text-align: center;
+    line-height: 2;
+}
+
+#questionArea {
+    width: 90%;
+    height: 50%;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+#startBtn {
+    background-color: #05C8F6;
+    color: #333;
+    width: 50px;
+    height: 35px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: #333;
+    box-shadow: 2px 2px rgba(26, 26, 26, 0.753);
+}
+
+#magicAnswerBox {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    text-transform: uppercase;
+    width: 300px;
+    height: 100px;
+    margin: 0 auto;
+}
