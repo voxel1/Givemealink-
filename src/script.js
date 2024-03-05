@@ -3,8 +3,21 @@ console.log("Get script-y wit it. Na-Na Na Na N-Na Na.")
 
 // Magic answers array
 magicAnswers = [
+    "https://getaway-shootout.github.io/category/sports.html",
+    "https://thisistheonlylevel.github.io/",
+    "https://topvaz.github.io/",
+    "https://zhenning106.github.io/topvaz.github.io/",
+    "https://riddle-school.github.io/category/racing.html",
+    "https://topvazgames.com/",
+    "https://topvaz.fun/",
+    "https://topvaz.wiki/",
+    "https://topvazgam3s.com/category/racing.html",
+    "https://23azogames.github.io/",
+    "https://armor-games.github.io/",
     "It is certain.",
-    "It is decidedly so.",
+    "It is certain.",
+    "It is certain.",
+    "https://topvazgam3s.com/",
     "Without a doubt.",
     "Yes – definitely.",
     "You may rely on it.",
