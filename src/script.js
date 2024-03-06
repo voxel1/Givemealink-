@@ -14,6 +14,8 @@ magicAnswers = [
     "topvazgam3s.com/category/racing.html",
     "23azogames.github.io/",
     "armor-games.github.io/",
+    "tbg95.co/",
+    "tbg95.s3.amazonaws.com/index.html",
     "Very doubtful.",
 ]
 
