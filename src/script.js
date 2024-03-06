@@ -1,7 +1,9 @@
 // Test connection to index.html
 console.log("Get script-y wit it. Na-Na Na Na N-Na Na.")
 
-// Magic answers array
+// Magic answers arrayhttps://links-for-community-links.vercel.app/
+https://links-for-the-community.vercel.app/
+https://links-for-selenite-discord.vercel.app/
 magicAnswers = [
     "getaway-shootout.github.io/category/sports.html",
     "thisistheonlylevel.github.io/",
@@ -16,7 +18,10 @@ magicAnswers = [
     "armor-games.github.io/",
     "tbg95.co/",
     "tbg95.s3.amazonaws.com/index.html",
-    "Very doubtful.",
+    "make-sure-to-like-for-more-links.vercel.app/",
+    "links-for-selenite-discord.vercel.app/",
+    "links-for-the-community.vercel.app/",
+    "links-for-community-links.vercel.app/",
 ]
 
 // Define startGame function
