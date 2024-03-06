@@ -1,9 +1,7 @@
 // Test connection to index.html
 console.log("Get script-y wit it. Na-Na Na Na N-Na Na.")
 
-// Magic answers arrayhttps://links-for-community-links.vercel.app/
-https://links-for-the-community.vercel.app/
-https://links-for-selenite-discord.vercel.app/
+// Magic answers array
 magicAnswers = [
     "getaway-shootout.github.io/category/sports.html",
     "thisistheonlylevel.github.io/",
